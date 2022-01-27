@@ -9,11 +9,9 @@
 
 - 🌱 I’m trying to learn **everything I can !**
 
-- 👨‍💻 All of my projects are available at [TO ADD ;)](TO ADD ;))
+- 👨‍💻 All of my projects are available at bastienproustfr.wordpress.com
 
 - 📫 How to reach me **proust.bastien@gmail.com**
-
-- 📄 Know about my experiences [TO ADD ;)](TO ADD ;))
 
 - ⚡ Fun fact **I have to have fun in my work, or it's going to get messed up !**
 
