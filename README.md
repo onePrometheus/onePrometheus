@@ -9,7 +9,7 @@
 
 - 🌱 I’m trying to learn **everything I can !**
 
-- 👨‍💻 All of my projects are available at bastienproustfr.wordpress.com
+- 👨‍💻 All of my projects are available at **[bastienproustfr.wordpress.com](https://bastienproustfr.wordpress.com/)**
 
 - 📫 How to reach me **proust.bastien@gmail.com**
 
