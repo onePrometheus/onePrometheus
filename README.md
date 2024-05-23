@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prometheus</h1>
 <h3 align="center">A french passionate developer !</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bbastpro-fr" alt="bbastpro-fr" /></a> </p>
-
 - 🔭 I’m studying **cybersecurity**
 
 - 🌱 I’m trying to learn **everything I can !**
